@@ -10,3 +10,21 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.resim1 {
+	float: left;
+	margin-right: 10px;
+	width: 35%;
+	height: 35%;
+	padding-top: 10px;
+}
+
+.resim2 {
+	float: right;
+	margin-right: 10px;
+	width: 35%;
+	height: 35%;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
