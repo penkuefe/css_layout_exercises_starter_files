@@ -5,21 +5,6 @@ main {
   border: 1px black solid;
   box-sizing: border-box;
 }
-
-.color-top {
-  box-sizing: border-box;
-  height: 200px;
-  width: 800px;
-  display: inline-block;
-  border: 1px black solid;
-}
-
-.color-green {
-  background-color: green;
-  width: 50%;
-}
-
-.color-blue {
   background-color: blue;
   width: 50%;
 }
@@ -36,6 +21,21 @@ main {
   background-color: gray;
   width: 33.33%;
 }
+
+.color-top {
+  box-sizing: border-box;
+  height: 200px;
+  width: 800px;
+  display: inline-block;
+  border: 1px black solid;
+}
+
+.color-green {
+  background-color: green;
+  width: 50%;
+}
+
+.color-blue {
 
 .color-black {
   background-color: black;
